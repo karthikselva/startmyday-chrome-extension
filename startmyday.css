@@ -1,0 +1,11 @@
+#app {
+	width: 400px;
+	border-style: solid;
+	border-color:  lightgray;
+}
+
+
+#menubar {
+	padding: 10px;
+	background-color: #CC3322;
+}
